@@ -14,7 +14,7 @@
 
 #### <img height="22" src="https://aux.iconspalace.com/uploads/17947374941607781187.png" /> Ferramentas Utilizadas:
 
-<div style="display: inline_block">
+<div style="display: inline-block">
  <img align="center" width="42" src="https://findicons.com/files/icons/2795/office_2013_hd/256/excel.png" />
  <img align="center" height="42" src="https://findicons.com/files/icons/2795/office_2013_hd/256/access.png">
  <img align="center" height="36" src="https://www.excelerateclasses.com/wp-content/uploads/2020/12/iconfinder_file-type-vba_4196094.png" />
