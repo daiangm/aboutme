@@ -6,10 +6,11 @@
 
 #### Funcionalidades:
 
- - Integração com ERP Sienge através de *API Rest*;
+ - Integração com ERP Sienge através do consumo de *API Rest*;
  - Atualização de Banco de Dados Access conforme configuração de parâmetros;
  - Fácil implementação de novos módulos;
  - Atualização automática de *Queries* salvas no arquivo Access;
+ - Agendamento de atualização dos dados;
  - Registro de *Logs* das atualizações.
 
 #### <img height="22" src="https://aux.iconspalace.com/uploads/17947374941607781187.png" /> Ferramentas Utilizadas:
