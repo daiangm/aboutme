@@ -4,6 +4,11 @@
 
 ###  ATUALIZADOR BANCO DE DADOS - EXCEL
 
+#### Descrição:
+
+Esta é uma ferramenta de atualização de Banco de Dados **Microsoft Access** através do consumo de uma API com retorno de dados em ***JSON***, desenvolvida em VBA no Excel.
+O intuito foi criar uma base de dados local para geração de relatórios e minimizar a quantidade de extração de relatórios do ERP WEB Sienge (muito utilizado no mercado imobiliário).
+
 #### Funcionalidades:
 
  - Integração com ERP Sienge através do consumo de *API Rest*;
