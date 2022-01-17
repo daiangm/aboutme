@@ -2,4 +2,4 @@
 
 ## PORTFOLIO
 
-### <a href="https://github.com/daiangm/portfolio/tree/main/Excel">Excel / VBA</a>
+### <a href="https://github.com/daiangm/portfolio/tree/main/Excel#readme">EXCEL / VBA</a>
