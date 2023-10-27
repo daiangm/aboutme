@@ -1,8 +1,8 @@
 ## SOBRE MIM
 
 - Perfil generalista e empreendedor, com foco em Tecnologia da Informação para aumento de produtividade e auxílio na tomada de decisão orientada à dados;
-- 11 anos de experiência com estruturação de Base de Dados, Dashboards, RPA (Automatização de Processos) e desenvolvimento de software (Frontend e Backend);
-- Atuações em empresas dos segmentos Contact Center (Telecomunicações) e Imobiliário (Multipropriedade), em áreas Administrativa, Financeira e TI;
+- 13 anos de experiência com estruturação de Base de Dados, Dashboards, RPA (Automatização de Processos) e desenvolvimento de software (Frontend e Backend);
+- Atuações em empresas dos segmentos Gestão Pública, Contact Center (Telecomunicações) e Imobiliário (Multipropriedade), em áreas Administrativa, Financeira e TI;
 
 ## PORTFOLIO
 
